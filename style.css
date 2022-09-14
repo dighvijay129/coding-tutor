@@ -1,0 +1,19 @@
+h1{
+    color:aqua;
+    border: 10px solid rgb(70,126,6);
+    background-color:brown;
+    
+}
+body{
+    background-color: yellow;
+}
+img{
+    border: 3px solid black;
+}
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight:italic;
+}
+ol,ul{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
